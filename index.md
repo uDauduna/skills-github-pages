@@ -1,4 +1,7 @@
 ---
-title: Welcome to my blog
+title: Mandla's World
+
+
+This is my first blog. This was done before I became an Aerospace Engineer.
 ---
 
